@@ -17,7 +17,7 @@ Jednoduchá kalkulačka pro výpočet ročních bonusů a zaměstnaneckých odm�
 
 Stáhněte si aktuální verzi **Bonus Calculator 2026** pro Windows.
 
-### [Stáhnout Bonus Calculator 2026](https://github.com/ursulastrudl/Diplomka_odkaz/blob/main/kalkulacka.bat)
+### [Stáhnout Bonus Calculator 2026](https://github.com/ursulastrudl/Diplomka_odkaz/releases/download/1.0/kalkulacka.bat)
 
 Po stažení spusťte soubor podle pokynů v aplikaci.
 
